@@ -5,7 +5,7 @@ Here, I will be posting a collection of my projects and contributions in coding.
 
 ## About Me
 
-I'm a 18 year old programmer from Peru/USA, I speak both Spanish and English fluently. My goal is always to learn new things and help people reach their goals.
+I'm a 18 year old programmer from the US, I speak both Spanish and English fluently. My goal is always to learn new things and help people reach their goals.
 
 ## 📁 Current Project(s)
 
